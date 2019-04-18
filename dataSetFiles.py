@@ -1,0 +1,40 @@
+def funA1():
+    return 'data_set/An33k6.txt',33
+def funA2():
+    return 'data_set/An34k5.txt',34
+def funA3():
+    return 'data_set/An36k5.txt',36
+def funA4():
+    return 'data_set/An39k6.txt',39
+def funA5():
+    return 'data_set/An60k9.txt',60
+def funA6():
+    return 'data_set/An62k8.txt',62
+def funA7():
+    return 'data_set/Bn31k5.txt',31
+def funA8():
+    return 'data_set/Bn34k5.txt',34
+def funA9():
+    return 'data_set/Bn39k5.txt',39
+def funA10():
+    return 'data_set/Bn41k6.txt',41
+def funA11():
+    return 'data_set/Bn44k7.txt',44
+def funA12():
+    return 'data_set/Bn50k7.txt',50
+def funA13():
+    return 'data_set/Bn50k8.txt',50
+def funA14():
+    return 'data_set/Pn20k2.txt',20
+def funA15():
+    return 'data_set/Pn21k2.txt',21
+def funA16():
+    return 'data_set/Pn22k2.txt',22
+def funA17():
+    return 'data_set/Pn45k5.txt',45
+def funA18():
+    return 'data_set/Pn55k8.txt',55
+def funA19():
+    return 'data_set/Pn76k4.txt',76
+def funA20():
+    return 'data_set/Pn76k5.txt',76
